@@ -1,4 +1,4 @@
-from pytube import pytube
+from pytube import *
 
 url = "" #url
 
