@@ -2,7 +2,7 @@ from pytube import pytube
 
 url = "" #url
 
-my_vid = Youtube(url)
+my_vid = YouTube(url)
 
 print(my_vid.title)
 
